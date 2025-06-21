@@ -1,0 +1,10 @@
+[package]
+name = "better_neural_net_core"
+version = "0.1.0"
+edition = "2024"
+
+[lib]
+path = "src/lib/mod.rs"
+
+[dependencies]
+rand = "0.9.1"

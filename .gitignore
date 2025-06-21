@@ -1,0 +1,13 @@
+# Rust
+/target
+
+# Flamegraph
+flamegraph.svg*
+perf.data*
+
+# VSCode
+.vscode/
+
+# Datasets
+/dataset/*
+!/dataset/.gitkeep
